@@ -1,0 +1,28 @@
+{
+  "name": "artiste",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-faust/artiste.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j-faust/artiste/issues"
+  },
+  "homepage": "https://github.com/j-faust/artiste#readme",
+  "dependencies": {
+    "apollo": "^2.34.0",
+    "apollo-client": "^2.6.10",
+    "apollo-server-express": "^3.12.0",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
